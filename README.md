@@ -1,10 +1,10 @@
-# DisjointDABS
-This repository hosts the paper "Disjoint-DABS: A Benchmark for Dynamic Aspect-Based Summarization in Disorganized Texts."
+# Disordered-DABS
+This repository hosts the paper "Disordered-DABS-DABS: A Benchmark for Dynamic Aspect-Based Summarization in Disorganized Texts."
 
 ## Dataset
 Access the Disjoint-DABS dataset at [Harvard Dataverse](https://doi.org/10.7910/DVN/OEE1RI).
 
-### Disjoint-DABS
+### Disordered-DABS
 We offer three zip files: **D-CnnDM.zip**, **D-WikiHow.zip**, and **D-WikiHow-sample.zip**. The first two are as per the paper, and the last is a sample for Section 7.1.
 
 The datasets are pre-split into train, validation, and test sets. Each zip file includes:
